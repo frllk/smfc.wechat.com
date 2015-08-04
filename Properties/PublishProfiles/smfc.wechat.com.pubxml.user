@@ -14,7 +14,13 @@
       <publishTime>08/03/2015 20:42:04</publishTime>
     </File>
     <File Include="bin/smfc.wechat.com.dll">
-      <publishTime>08/03/2015 21:10:57</publishTime>
+      <publishTime>08/04/2015 17:07:17</publishTime>
+    </File>
+    <File Include="bin/sohovan.com.common.dll">
+      <publishTime>08/04/2015 17:01:52</publishTime>
+    </File>
+    <File Include="bin/sohovan.com.wxapi.dll">
+      <publishTime>08/04/2015 17:01:52</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>08/03/2015 20:42:04</publishTime>
@@ -52,14 +58,23 @@
     <File Include="bin/zh-Hans/System.Web.Webpages.resources.dll">
       <publishTime>08/03/2015 20:42:05</publishTime>
     </File>
+    <File Include="Controllers/WechatController.cs">
+      <publishTime>08/04/2015 12:02:13</publishTime>
+    </File>
     <File Include="Global.asax">
       <publishTime>08/03/2015 20:42:03</publishTime>
     </File>
     <File Include="Logs/access.txt">
-      <publishTime>08/03/2015 20:48:40</publishTime>
+      <publishTime>08/04/2015 13:43:21</publishTime>
     </File>
     <File Include="Logs/info.html">
       <publishTime>08/03/2015 21:07:18</publishTime>
+    </File>
+    <File Include="Logs/info2.html">
+      <publishTime>08/04/2015 10:45:40</publishTime>
+    </File>
+    <File Include="Logs/info2.txt">
+      <publishTime>08/04/2015 10:45:40</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>08/03/2015 20:42:05</publishTime>
@@ -68,7 +83,7 @@
       <publishTime>08/03/2015 20:42:03</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/03/2015 21:00:02</publishTime>
+      <publishTime>08/04/2015 11:41:54</publishTime>
     </File>
   </ItemGroup>
 </Project>
